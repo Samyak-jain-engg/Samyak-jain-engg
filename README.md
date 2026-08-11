@@ -14,8 +14,8 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "🌍 Earth",
+    name: "Samyak Jain",
+    location: "Dhule Maharashtra",
     role: "Full-Stack Developer",
     languages: ["JavaScript", "Python", "TypeScript", "Go"],
     currentFocus: "Building scalable web applications",
