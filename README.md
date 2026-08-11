@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Hi%20I'm%20Samyak!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20DSA%20|%20C++%20|%20Python&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Hi%20I'm%20Samyak!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20DSA%20|%20Cpp%20|%20Python&descAlignY=55&descSize=18" />
 
 <h3 align="center">Welcome to my GitHub Profile! 🚀</h3>
 
